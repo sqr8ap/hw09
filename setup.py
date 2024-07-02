@@ -2,6 +2,7 @@ from setuptools import setup
 
 setup(
     name = 'hw09',
+    version = '1.0',
     author = 'Sam Remmey',
     author_email = 'sqr8ap@virginia.edu',
     packages = ['booklover'],
